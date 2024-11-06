@@ -1,2 +1,2 @@
 # Unit2.Froyo
-Workshop 15
+Unit2-Froyo: Workshop 15
